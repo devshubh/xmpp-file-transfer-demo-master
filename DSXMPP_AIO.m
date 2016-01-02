@@ -1,10 +1,4 @@
-//
-//  DSXMPP_AIO.m
-//  FileTransferDemo
-//
-//  Created by CANOPUS21 on 16/10/15.
-//  Copyright (c) 2015 nplexity. All rights reserved.
-//
+
 
 #import "DSXMPP_AIO.h"
 NSString *const kXMPPmyJID = @"kXMPPmyJID";
